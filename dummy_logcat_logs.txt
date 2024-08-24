@@ -1,0 +1,1000 @@
+08-24 15:02:57.538  6998  8453 V LocationService: animateView: View animation started.
+08-24 15:02:57.546  9545  2324 D MainActivity: onCreate: Activity is being created.
+08-24 15:02:57.640  6393  6251 W DatabaseHelper: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:02:57.706  3707  4010 E ServiceManager: handleIntent: Handling intent action.
+08-24 15:02:57.725  9536  9350 D DatabaseHelper: registerReceiver: Broadcast receiver registered.
+08-24 15:02:57.737  5523  5631 D DatabaseHelper: performTask: Performing background task.
+08-24 15:02:57.819  5221  7116 D MainActivity: showNotification: Notification displayed to the user.
+08-24 15:02:57.900  8751  1528 D NetworkManager: stopAnimation: View animation stopped.
+08-24 15:02:57.954  6929  7026 W MainActivity: startService: Starting background service.
+08-24 15:02:58.001  6926  5349 W NetworkManager: stopAnimation: View animation stopped.
+08-24 15:02:58.016  2991  2740 D BackgroundTask: validateInput: User input validated successfully.
+08-24 15:02:58.058  6569  1283 W AuthService: startService: Starting background service.
+08-24 15:02:58.078  6379  5141 W ServiceManager: showNotification: Notification displayed to the user.
+08-24 15:02:58.099  2826  4668 I NetworkManager: handleIntent: Handling intent action.
+08-24 15:02:58.109  6635  6759 E AuthService: onError: Network error occurred, retrying request.
+08-24 15:02:58.119  7585  7229 E MainActivity: updateLocation: User location updated.
+08-24 15:02:58.163  1273  2480 V AuthService: onFailure: Failed to connect to server, giving up.
+08-24 15:02:58.192  8606  8882 W UIThread: onResponse: Response received with status code 200.
+08-24 15:02:58.219  8063  9651 E LocationService: onStop: Activity has stopped.
+08-24 15:02:58.246  5321  4618 W LocationService: fetchData: Fetching data from https://example.com/api/data
+08-24 15:02:58.281  8771  5080 V PaymentProcessor: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:02:58.357  6601  4792 D LocationService: compressData: Data compression completed.
+08-24 15:02:58.440  9855  4300 D PaymentProcessor: disconnectDatabase: Database connection closed.
+08-24 15:02:58.510  1230  3430 I ServiceManager: validateInput: User input validated successfully.
+08-24 15:02:58.574  9179  7515 D AuthService: authenticateUser: User authentication successful.
+08-24 15:02:58.614  5850  4920 D PaymentProcessor: encryptData: Data encryption completed.
+08-24 15:02:58.615  6064  4237 W LocationService: onFailure: Failed to connect to server, giving up.
+08-24 15:02:58.664  7937  2596 D DatabaseHelper: stopAnimation: View animation stopped.
+08-24 15:02:58.743  3068  4849 I LocationService: showNotification: Notification displayed to the user.
+08-24 15:02:58.823  1187  1200 W DatabaseHelper: onDestroy: Activity is being destroyed.
+08-24 15:02:58.895  4023  6720 I MainActivity: encryptData: Data encryption completed.
+08-24 15:02:58.951  1983  5947 E NetworkManager: onCreate: Activity is being created.
+08-24 15:02:58.976  8622  5700 I UIThread: onError: An unexpected error occurred.
+08-24 15:02:59.066  9387  8407 E LocationService: encryptData: Data encryption completed.
+08-24 15:02:59.110  8124  5279 W MainActivity: fetchData: Fetching data from https://example.com/api/data
+08-24 15:02:59.141  7624  7127 I AuthService: animateView: View animation started.
+08-24 15:02:59.142  5824  1557 D LocationService: animateView: View animation started.
+08-24 15:02:59.165  7762  5563 E PaymentProcessor: initView: Initializing views.
+08-24 15:02:59.200  7882  9656 W ServiceManager: loadData: Loading data from the server.
+08-24 15:02:59.203  9085  8683 I AuthService: cacheData: Data cached locally.
+08-24 15:02:59.289  1048  3384 D NetworkManager: onPause: Activity is being paused.
+08-24 15:02:59.347  4603  4341 I BackgroundTask: registerReceiver: Broadcast receiver registered.
+08-24 15:02:59.405  5051  1487 V LocationService: disconnectDatabase: Database connection closed.
+08-24 15:02:59.463  6517  6263 E NetworkManager: showNotification: Notification displayed to the user.
+08-24 15:02:59.543  9295  4778 D AuthService: onResponse: Response received with status code 200.
+08-24 15:02:59.640  1444  7218 V LocationService: processPayment: Payment processed successfully.
+08-24 15:02:59.697  7441  2799 W LocationService: validateInput: User input validated successfully.
+08-24 15:02:59.723  9529  2295 E UIThread: animateView: View animation started.
+08-24 15:02:59.757  9009  1302 E LocationService: onDestroy: Background service is being destroyed.
+08-24 15:02:59.822  2161  9788 I BackgroundTask: onError: An unexpected error occurred.
+08-24 15:02:59.873  2496  5585 I NotificationManager: onResume: Activity is now resumed.
+08-24 15:02:59.886  8615  5434 E MainActivity: updateLocation: User location updated.
+08-24 15:02:59.929  8146  1133 E UIThread: onStop: Activity has stopped.
+08-24 15:02:59.988  8461  2764 E PaymentProcessor: handleIntent: Handling intent action.
+08-24 15:02:59.989  4873  9609 D DatabaseHelper: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:00.016  5890  6182 W NetworkManager: startService: Starting background service.
+08-24 15:03:00.047  1854  1853 I MainActivity: startService: Starting background service.
+08-24 15:03:00.118  5103  7868 W ServiceManager: registerReceiver: Broadcast receiver registered.
+08-24 15:03:00.205  4094  9365 E PaymentProcessor: validateInput: User input validated successfully.
+08-24 15:03:00.210  1037  4691 I BackgroundTask: showNotification: Notification displayed to the user.
+08-24 15:03:00.250  8338  3085 I ServiceManager: loadImage: Image loaded into view.
+08-24 15:03:00.288  1122  5523 W PaymentProcessor: onPause: Activity is being paused.
+08-24 15:03:00.324  1201  5201 W PaymentProcessor: syncData: Data synchronization completed.
+08-24 15:03:00.418  4981  3283 D UIThread: onResume: Activity is now resumed.
+08-24 15:03:00.439  6869  8672 V PaymentProcessor: showNotification: Notification displayed to the user.
+08-24 15:03:00.523  5535  3150 V NotificationManager: resizeImage: Image resized successfully.
+08-24 15:03:00.565  3131  1586 D NotificationManager: startService: Starting background service.
+08-24 15:03:00.639  9352  5292 E LocationService: updateUI: UI updated with the latest data.
+08-24 15:03:00.718  6929  7322 W ServiceManager: validateInput: User input validated successfully.
+08-24 15:03:00.792  8387  9070 V UIThread: performTask: Performing background task.
+08-24 15:03:00.890  1735  8503 V MainActivity: connectDatabase: Database connection established.
+08-24 15:03:00.987  6552  8874 I UIThread: onDestroy: Background service is being destroyed.
+08-24 15:03:00.998  3620  4514 E AuthService: loadImage: Image loaded into view.
+08-24 15:03:01.074  5971  5667 V PaymentProcessor: handleIntent: Handling intent action.
+08-24 15:03:01.086  2135  3443 E BackgroundTask: loadImage: Image loaded into view.
+08-24 15:03:01.162  5422  5371 D ServiceManager: showNotification: Notification displayed to the user.
+08-24 15:03:01.219  4957  8564 I ServiceManager: onLowMemory: System is running low on memory.
+08-24 15:03:01.223  5733  1583 I ServiceManager: handleIntent: Handling intent action.
+08-24 15:03:01.302  7200  7938 W LocationService: handleIntent: Handling intent action.
+08-24 15:03:01.334  4739  5125 W LocationService: onResume: Activity is now resumed.
+08-24 15:03:01.429  6389  4416 W UIThread: handleIntent: Handling intent action.
+08-24 15:03:01.480  2163  4327 D DatabaseHelper: performTask: Performing background task.
+08-24 15:03:01.538  2275  6115 D NetworkManager: onError: Network error occurred, retrying request.
+08-24 15:03:01.556  3775  1065 I NetworkManager: startService: Starting background service.
+08-24 15:03:01.578  3753  6348 V MainActivity: decompressData: Data decompression completed.
+08-24 15:03:01.632  7677  6057 I LocationService: decryptData: Data decryption completed.
+08-24 15:03:01.642  6633  5582 E AuthService: cacheData: Data cached locally.
+08-24 15:03:01.681  4625  5508 W MainActivity: initView: Initializing views.
+08-24 15:03:01.686  3963  5164 V NetworkManager: loadData: Loading data from the server.
+08-24 15:03:01.692  1528  7334 I LocationService: onDestroy: Activity is being destroyed.
+08-24 15:03:01.713  4918  3229 D UIThread: onDestroy: Background service is being destroyed.
+08-24 15:03:01.752  7215  2484 V NetworkManager: onError: Network error occurred, retrying request.
+08-24 15:03:01.814  1784  1292 V NotificationManager: updateUI: UI updated with the latest data.
+08-24 15:03:01.831  8344  8431 V NotificationManager: onStop: Activity has stopped.
+08-24 15:03:01.913  5555  2592 D MainActivity: parseResponse: Server response parsed.
+08-24 15:03:01.936  9080  1827 E AuthService: registerReceiver: Broadcast receiver registered.
+08-24 15:03:01.964  3162  8374 D NetworkManager: resizeImage: Image resized successfully.
+08-24 15:03:02.009  6277  4889 E AuthService: performTask: Performing background task.
+08-24 15:03:02.082  7718  1242 W DatabaseHelper: onError: Network error occurred, retrying request.
+08-24 15:03:02.124  7987  8378 V BackgroundTask: onLowMemory: System is running low on memory.
+08-24 15:03:02.168  5380  2531 E AuthService: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:02.209  3763  4522 V UIThread: onDestroy: Background service is being destroyed.
+08-24 15:03:02.248  8695  6383 D DatabaseHelper: onRestart: Activity is being restarted.
+08-24 15:03:02.332  7214  4952 I PaymentProcessor: onDestroy: Background service is being destroyed.
+08-24 15:03:02.350  3748  2983 E DatabaseHelper: cacheData: Data cached locally.
+08-24 15:03:02.387  4525  4852 E PaymentProcessor: onCreate: Activity is being created.
+08-24 15:03:02.428  7975  7474 W MainActivity: loadData: Loading data from the server.
+08-24 15:03:02.454  9261  7464 V NetworkManager: onStop: Activity has stopped.
+08-24 15:03:02.547  6395  8338 E DatabaseHelper: validateInput: User input validated successfully.
+08-24 15:03:02.555  1981  3037 V MainActivity: authenticateUser: User authentication successful.
+08-24 15:03:02.616  9015  9502 E BackgroundTask: initView: Initializing views.
+08-24 15:03:02.700  6130  4417 D BackgroundTask: onCreate: Activity is being created.
+08-24 15:03:02.707  1239  2823 E NetworkManager: onStartCommand: Service command received.
+08-24 15:03:02.746  4494  1402 V PaymentProcessor: insertData: Data inserted into the database.
+08-24 15:03:02.840  3217  3645 E ServiceManager: handleIntent: Handling intent action.
+08-24 15:03:02.895  8597  6260 E DatabaseHelper: insertData: Data inserted into the database.
+08-24 15:03:02.913  8620  6142 I MainActivity: onFailure: Failed to connect to server, giving up.
+08-24 15:03:03.004  3025  4919 I LocationService: onFailure: Failed to connect to server, giving up.
+08-24 15:03:03.101  1022  4572 D LocationService: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:03.141  2799  5824 D PaymentProcessor: onDestroy: Activity is being destroyed.
+08-24 15:03:03.229  1478  9684 E NetworkManager: onLowMemory: System is running low on memory.
+08-24 15:03:03.315  8131  8102 D NotificationManager: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:03.381  1370  1286 W ServiceManager: resizeImage: Image resized successfully.
+08-24 15:03:03.481  6226  5999 I DatabaseHelper: onDestroy: Background service is being destroyed.
+08-24 15:03:03.563  2766  8078 W LocationService: handleIntent: Handling intent action.
+08-24 15:03:03.575  2838  2645 W LocationService: updateLocation: User location updated.
+08-24 15:03:03.609  5336  9131 W ServiceManager: handleIntent: Handling intent action.
+08-24 15:03:03.699  1413  3766 V ServiceManager: processPayment: Payment processed successfully.
+08-24 15:03:03.776  7976  1371 D UIThread: loadData: Loading data from the server.
+08-24 15:03:03.876  7659  3788 E ServiceManager: disconnectDatabase: Database connection closed.
+08-24 15:03:03.894  6702  4434 I NetworkManager: decompressData: Data decompression completed.
+08-24 15:03:03.909  9223  6005 D LocationService: resizeImage: Image resized successfully.
+08-24 15:03:03.959  7302  2667 D PaymentProcessor: animateView: View animation started.
+08-24 15:03:04.020  4708  7173 D ServiceManager: parseResponse: Server response parsed.
+08-24 15:03:04.073  7386  2886 V UIThread: onStartCommand: Service command received.
+08-24 15:03:04.149  5123  7658 E AuthService: onResume: Activity is now resumed.
+08-24 15:03:04.153  1208  4631 D LocationService: animateView: View animation started.
+08-24 15:03:04.216  2008  8891 E UIThread: decryptData: Data decryption completed.
+08-24 15:03:04.300  8767  3491 E PaymentProcessor: initView: Initializing views.
+08-24 15:03:04.365  9466  1906 D UIThread: onLowMemory: System is running low on memory.
+08-24 15:03:04.443  7984  1522 D ServiceManager: onDestroy: Activity is being destroyed.
+08-24 15:03:04.507  7197  7509 W UIThread: initView: Initializing views.
+08-24 15:03:04.571  2322  3101 W DatabaseHelper: onError: An unexpected error occurred.
+08-24 15:03:04.652  5843  5380 D BackgroundTask: decryptData: Data decryption completed.
+08-24 15:03:04.668  3034  7951 D PaymentProcessor: onStop: Activity has stopped.
+08-24 15:03:04.674  8022  9796 I LocationService: onCreate: Activity is being created.
+08-24 15:03:04.688  3979  4756 E AuthService: registerReceiver: Broadcast receiver registered.
+08-24 15:03:04.719  2473  6819 D BackgroundTask: validateInput: User input validated successfully.
+08-24 15:03:04.730  2773  3914 D NetworkManager: cacheData: Data cached locally.
+08-24 15:03:04.733  4511  7503 I DatabaseHelper: onStop: Activity has stopped.
+08-24 15:03:04.825  4351  8984 D DatabaseHelper: stopAnimation: View animation stopped.
+08-24 15:03:04.856  4750  3197 I AuthService: updateUI: UI updated with the latest data.
+08-24 15:03:04.900  9035  7947 I AuthService: handleIntent: Handling intent action.
+08-24 15:03:04.939  9636  5778 I AuthService: onRestart: Activity is being restarted.
+08-24 15:03:05.014  5256  1819 D NotificationManager: cacheData: Data cached locally.
+08-24 15:03:05.037  8212  4956 I PaymentProcessor: onDestroy: Background service is being destroyed.
+08-24 15:03:05.131  3528  1293 V NotificationManager: onDestroy: Background service is being destroyed.
+08-24 15:03:05.231  8151  1551 V ServiceManager: showNotification: Notification displayed to the user.
+08-24 15:03:05.234  7133  5560 D ServiceManager: decryptData: Data decryption completed.
+08-24 15:03:05.266  5081  6057 W NotificationManager: resizeImage: Image resized successfully.
+08-24 15:03:05.328  2128  8186 I UIThread: onError: An unexpected error occurred.
+08-24 15:03:05.383  7700  1343 E NotificationManager: processPayment: Payment processed successfully.
+08-24 15:03:05.455  5036  4294 D ServiceManager: onError: Network error occurred, retrying request.
+08-24 15:03:05.512  1572  7193 D UIThread: authenticateUser: User authentication successful.
+08-24 15:03:05.581  4212  2393 V PaymentProcessor: validateInput: User input validated successfully.
+08-24 15:03:05.600  2231  8939 V NotificationManager: onError: An unexpected error occurred.
+08-24 15:03:05.616  6505  3530 V DatabaseHelper: onStartCommand: Service command received.
+08-24 15:03:05.704  7438  2760 W DatabaseHelper: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:05.791  6719  2233 D PaymentProcessor: syncData: Data synchronization completed.
+08-24 15:03:05.832  6790  9558 I ServiceManager: handleIntent: Handling intent action.
+08-24 15:03:05.916  6833  8127 D DatabaseHelper: onResponse: Response received with status code 200.
+08-24 15:03:05.945  9956  3993 I PaymentProcessor: decompressData: Data decompression completed.
+08-24 15:03:06.028  8613  9915 W UIThread: cacheData: Data cached locally.
+08-24 15:03:06.062  9380  1800 V MainActivity: registerReceiver: Broadcast receiver registered.
+08-24 15:03:06.145  8439  1787 E DatabaseHelper: resizeImage: Image resized successfully.
+08-24 15:03:06.173  7671  4324 D NetworkManager: onError: An unexpected error occurred.
+08-24 15:03:06.244  8039  7267 W NetworkManager: initView: Initializing views.
+08-24 15:03:06.295  8814  1388 E AuthService: resizeImage: Image resized successfully.
+08-24 15:03:06.386  5219  7880 D MainActivity: onPause: Activity is being paused.
+08-24 15:03:06.472  6574  9448 E AuthService: stopAnimation: View animation stopped.
+08-24 15:03:06.500  6979  4923 D ServiceManager: startService: Starting background service.
+08-24 15:03:06.535  7503  8401 V MainActivity: insertData: Data inserted into the database.
+08-24 15:03:06.593  6197  7978 W AuthService: stopAnimation: View animation stopped.
+08-24 15:03:06.657  8693  1008 E UIThread: onPause: Activity is being paused.
+08-24 15:03:06.734  6890  6723 D MainActivity: updateUI: UI updated with the latest data.
+08-24 15:03:06.774  1879  9132 W BackgroundTask: connectDatabase: Database connection established.
+08-24 15:03:06.818  8907  7392 V DatabaseHelper: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:06.846  9093  5161 V ServiceManager: handleIntent: Handling intent action.
+08-24 15:03:06.914  8512  7262 I LocationService: onStartCommand: Service command received.
+08-24 15:03:06.983  3094  4671 I NotificationManager: onDestroy: Background service is being destroyed.
+08-24 15:03:07.000  7549  8287 W LocationService: onStartCommand: Service command received.
+08-24 15:03:07.009  5452  1789 D MainActivity: insertData: Data inserted into the database.
+08-24 15:03:07.102  9986  6504 E UIThread: registerReceiver: Broadcast receiver registered.
+08-24 15:03:07.118  9436  5647 W DatabaseHelper: loadImage: Image loaded into view.
+08-24 15:03:07.178  8963  3296 W DatabaseHelper: onDestroy: Background service is being destroyed.
+08-24 15:03:07.184  9291  8411 I UIThread: processPayment: Payment processed successfully.
+08-24 15:03:07.252  8445  4749 I LocationService: onError: Network error occurred, retrying request.
+08-24 15:03:07.349  9019  5419 I ServiceManager: onError: An unexpected error occurred.
+08-24 15:03:07.389  2226  9398 E MainActivity: compressData: Data compression completed.
+08-24 15:03:07.486  8829  3140 D NotificationManager: handleIntent: Handling intent action.
+08-24 15:03:07.549  2607  5313 I ServiceManager: onCreate: Activity is being created.
+08-24 15:03:07.630  1332  7917 E NotificationManager: onPause: Activity is being paused.
+08-24 15:03:07.690  7175  8431 V PaymentProcessor: stopAnimation: View animation stopped.
+08-24 15:03:07.776  7024  4061 V MainActivity: startService: Starting background service.
+08-24 15:03:07.812  7628  9326 W UIThread: registerReceiver: Broadcast receiver registered.
+08-24 15:03:07.827  1965  3297 W PaymentProcessor: onDestroy: Activity is being destroyed.
+08-24 15:03:07.881  9921  4770 V DatabaseHelper: connectDatabase: Database connection established.
+08-24 15:03:07.964  4611  9061 D NotificationManager: onError: Network error occurred, retrying request.
+08-24 15:03:08.052  5401  8065 I PaymentProcessor: disconnectDatabase: Database connection closed.
+08-24 15:03:08.118  3326  3676 V ServiceManager: parseResponse: Server response parsed.
+08-24 15:03:08.165  7454  3698 I DatabaseHelper: authenticateUser: User authentication successful.
+08-24 15:03:08.225  2468  4293 I BackgroundTask: onLowMemory: System is running low on memory.
+08-24 15:03:08.268  7426  5041 V BackgroundTask: onRestart: Activity is being restarted.
+08-24 15:03:08.338  8218  3709 I BackgroundTask: onPause: Activity is being paused.
+08-24 15:03:08.376  3037  3405 D BackgroundTask: onCreate: Activity is being created.
+08-24 15:03:08.463  8037  9153 I BackgroundTask: registerReceiver: Broadcast receiver registered.
+08-24 15:03:08.523  3770  1287 V DatabaseHelper: stopAnimation: View animation stopped.
+08-24 15:03:08.593  5857  5217 V MainActivity: updateLocation: User location updated.
+08-24 15:03:08.639  6841  4889 E ServiceManager: stopAnimation: View animation stopped.
+08-24 15:03:08.660  8234  5417 W NotificationManager: processPayment: Payment processed successfully.
+08-24 15:03:08.682  3021  4850 E NetworkManager: performTask: Performing background task.
+08-24 15:03:08.731  8027  8347 E DatabaseHelper: loadImage: Image loaded into view.
+08-24 15:03:08.784  5325  8101 V AuthService: onResponse: Response received with status code 200.
+08-24 15:03:08.828  7425  5962 W BackgroundTask: onError: Network error occurred, retrying request.
+08-24 15:03:08.842  4535  8150 V NotificationManager: onLowMemory: System is running low on memory.
+08-24 15:03:08.885  5866  1196 V PaymentProcessor: stopAnimation: View animation stopped.
+08-24 15:03:08.982  4062  9405 E ServiceManager: onResume: Activity is now resumed.
+08-24 15:03:09.036  2485  9642 I ServiceManager: onDestroy: Activity is being destroyed.
+08-24 15:03:09.131  7604  4929 V UIThread: updateUI: UI updated with the latest data.
+08-24 15:03:09.212  5510  4413 V NetworkManager: updateUI: UI updated with the latest data.
+08-24 15:03:09.228  7653  1775 E LocationService: handleIntent: Handling intent action.
+08-24 15:03:09.305  9431  6669 V DatabaseHelper: parseResponse: Server response parsed.
+08-24 15:03:09.339  6937  7584 E DatabaseHelper: onStartCommand: Service command received.
+08-24 15:03:09.360  1815  3026 E NotificationManager: performTask: Performing background task.
+08-24 15:03:09.371  2517  4018 D LocationService: validateInput: User input validated successfully.
+08-24 15:03:09.395  3365  4710 D BackgroundTask: showNotification: Notification displayed to the user.
+08-24 15:03:09.422  8681  2258 E AuthService: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:09.506  4589  5117 E LocationService: onPause: Activity is being paused.
+08-24 15:03:09.581  9651  7332 E NotificationManager: insertData: Data inserted into the database.
+08-24 15:03:09.611  6946  2507 V NotificationManager: handleIntent: Handling intent action.
+08-24 15:03:09.693  6680  6312 V PaymentProcessor: loadData: Loading data from the server.
+08-24 15:03:09.730  2336  6922 V NotificationManager: cacheData: Data cached locally.
+08-24 15:03:09.802  5674  5652 E BackgroundTask: onError: An unexpected error occurred.
+08-24 15:03:09.857  6377  5344 E PaymentProcessor: onRestart: Activity is being restarted.
+08-24 15:03:09.955  7275  5677 W NetworkManager: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:10.036  8368  8821 I DatabaseHelper: startService: Starting background service.
+08-24 15:03:10.115  9729  6392 W DatabaseHelper: onResponse: Response received with status code 200.
+08-24 15:03:10.182  2794  8405 I BackgroundTask: onPause: Activity is being paused.
+08-24 15:03:10.243  5378  4817 I LocationService: onError: An unexpected error occurred.
+08-24 15:03:10.254  9239  3405 D UIThread: initView: Initializing views.
+08-24 15:03:10.341  9560  2384 D MainActivity: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:10.396  3478  9637 I NetworkManager: stopAnimation: View animation stopped.
+08-24 15:03:10.495  4431  3212 D ServiceManager: parseResponse: Server response parsed.
+08-24 15:03:10.564  9004  5225 D ServiceManager: updateUI: UI updated with the latest data.
+08-24 15:03:10.647  5372  1890 V NotificationManager: connectDatabase: Database connection established.
+08-24 15:03:10.682  1311  5320 V LocationService: onFailure: Failed to connect to server, giving up.
+08-24 15:03:10.768  6360  5118 E NetworkManager: cacheData: Data cached locally.
+08-24 15:03:10.835  6240  7713 W DatabaseHelper: processPayment: Payment processed successfully.
+08-24 15:03:10.838  5522  8788 D LocationService: registerReceiver: Broadcast receiver registered.
+08-24 15:03:10.855  5404  3195 E AuthService: onPause: Activity is being paused.
+08-24 15:03:10.941  4695  9833 E UIThread: onPause: Activity is being paused.
+08-24 15:03:11.024  9895  6191 W DatabaseHelper: initView: Initializing views.
+08-24 15:03:11.032  9977  3489 V NetworkManager: connectDatabase: Database connection established.
+08-24 15:03:11.083  2214  9061 I ServiceManager: updateLocation: User location updated.
+08-24 15:03:11.101  8311  2730 I ServiceManager: onFailure: Failed to connect to server, giving up.
+08-24 15:03:11.175  7218  2530 V LocationService: decryptData: Data decryption completed.
+08-24 15:03:11.237  7231  6801 W MainActivity: decompressData: Data decompression completed.
+08-24 15:03:11.286  7760  3979 D MainActivity: loadData: Loading data from the server.
+08-24 15:03:11.310  2397  9582 D AuthService: onDestroy: Background service is being destroyed.
+08-24 15:03:11.399  1633  7735 V LocationService: validateInput: User input validated successfully.
+08-24 15:03:11.449  4801  6349 I DatabaseHelper: loadData: Loading data from the server.
+08-24 15:03:11.532  5781  8850 E ServiceManager: onFailure: Failed to connect to server, giving up.
+08-24 15:03:11.582  2625  9363 V PaymentProcessor: onDestroy: Activity is being destroyed.
+08-24 15:03:11.585  9237  8911 V AuthService: compressData: Data compression completed.
+08-24 15:03:11.675  6863  4190 W ServiceManager: animateView: View animation started.
+08-24 15:03:11.710  2998  6102 W DatabaseHelper: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:11.755  9420  1651 V PaymentProcessor: syncData: Data synchronization completed.
+08-24 15:03:11.828  3789  8380 E UIThread: disconnectDatabase: Database connection closed.
+08-24 15:03:11.860  3605  5167 D MainActivity: updateLocation: User location updated.
+08-24 15:03:11.952  9516  8456 E AuthService: onRestart: Activity is being restarted.
+08-24 15:03:12.009  8093  4759 I ServiceManager: validateInput: User input validated successfully.
+08-24 15:03:12.012  8000  2011 D DatabaseHelper: startService: Starting background service.
+08-24 15:03:12.093  9838  9544 W LocationService: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:12.156  6930  7720 V ServiceManager: connectDatabase: Database connection established.
+08-24 15:03:12.252  2550  8809 V ServiceManager: showNotification: Notification displayed to the user.
+08-24 15:03:12.290  1913  3748 V NetworkManager: parseResponse: Server response parsed.
+08-24 15:03:12.374  5571  4529 I BackgroundTask: onError: Network error occurred, retrying request.
+08-24 15:03:12.459  4289  9472 E UIThread: compressData: Data compression completed.
+08-24 15:03:12.477  5434  4145 W DatabaseHelper: encryptData: Data encryption completed.
+08-24 15:03:12.515  8218  4784 W MainActivity: updateUI: UI updated with the latest data.
+08-24 15:03:12.525  5019  5356 I MainActivity: registerReceiver: Broadcast receiver registered.
+08-24 15:03:12.536  1442  8962 D ServiceManager: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:12.555  4672  4563 V PaymentProcessor: onLowMemory: System is running low on memory.
+08-24 15:03:12.584  6876  9986 V LocationService: onFailure: Failed to connect to server, giving up.
+08-24 15:03:12.668  5803  4990 I MainActivity: validateInput: User input validated successfully.
+08-24 15:03:12.765  5123  1750 D ServiceManager: loadData: Loading data from the server.
+08-24 15:03:12.782  9685  4053 I PaymentProcessor: resizeImage: Image resized successfully.
+08-24 15:03:12.799  6284  6940 W MainActivity: onRestart: Activity is being restarted.
+08-24 15:03:12.877  6475  5899 V UIThread: compressData: Data compression completed.
+08-24 15:03:12.881  6884  4342 E NetworkManager: onCreate: Activity is being created.
+08-24 15:03:12.977  5112  2598 V LocationService: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:13.075  4961  3288 V NotificationManager: onDestroy: Activity is being destroyed.
+08-24 15:03:13.124  9794  2506 W UIThread: parseResponse: Server response parsed.
+08-24 15:03:13.214  4051  9399 W AuthService: registerReceiver: Broadcast receiver registered.
+08-24 15:03:13.284  6973  5953 W UIThread: decryptData: Data decryption completed.
+08-24 15:03:13.357  7855  6998 E DatabaseHelper: onCreate: Activity is being created.
+08-24 15:03:13.425  2036  9481 V UIThread: updateLocation: User location updated.
+08-24 15:03:13.449  5293  3161 V NetworkManager: updateLocation: User location updated.
+08-24 15:03:13.517  5310  6344 V ServiceManager: onResponse: Response received with status code 200.
+08-24 15:03:13.567  4026  9818 E AuthService: showNotification: Notification displayed to the user.
+08-24 15:03:13.577  3487  7256 V LocationService: loadImage: Image loaded into view.
+08-24 15:03:13.595  1961  1392 V PaymentProcessor: loadData: Loading data from the server.
+08-24 15:03:13.639  4366  9471 W AuthService: onDestroy: Activity is being destroyed.
+08-24 15:03:13.727  4730  3414 V NetworkManager: onCreate: Activity is being created.
+08-24 15:03:13.812  1535  8498 E NotificationManager: decryptData: Data decryption completed.
+08-24 15:03:13.826  6035  4150 W MainActivity: processPayment: Payment processed successfully.
+08-24 15:03:13.840  9928  2679 V UIThread: encryptData: Data encryption completed.
+08-24 15:03:13.879  4525  1392 E UIThread: onLowMemory: System is running low on memory.
+08-24 15:03:13.944  1145  9140 D PaymentProcessor: registerReceiver: Broadcast receiver registered.
+08-24 15:03:14.019  6939  9940 W BackgroundTask: decryptData: Data decryption completed.
+08-24 15:03:14.080  4760  6498 I DatabaseHelper: parseResponse: Server response parsed.
+08-24 15:03:14.157  7975  4435 I DatabaseHelper: onPause: Activity is being paused.
+08-24 15:03:14.196  1356  3673 E DatabaseHelper: onPause: Activity is being paused.
+08-24 15:03:14.204  4884  1009 V LocationService: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:14.216  3430  2763 V PaymentProcessor: stopAnimation: View animation stopped.
+08-24 15:03:14.298  2135  2564 I PaymentProcessor: disconnectDatabase: Database connection closed.
+08-24 15:03:14.373  8359  4342 D AuthService: loadData: Loading data from the server.
+08-24 15:03:14.428  7620  1694 D BackgroundTask: authenticateUser: User authentication successful.
+08-24 15:03:14.502  3018  7450 I ServiceManager: loadData: Loading data from the server.
+08-24 15:03:14.540  9359  5868 E LocationService: updateLocation: User location updated.
+08-24 15:03:14.543  8598  5290 D ServiceManager: showNotification: Notification displayed to the user.
+08-24 15:03:14.579  7463  8451 I NetworkManager: compressData: Data compression completed.
+08-24 15:03:14.601  1548  4224 D ServiceManager: compressData: Data compression completed.
+08-24 15:03:14.686  4959  8960 W DatabaseHelper: cacheData: Data cached locally.
+08-24 15:03:14.750  2434  8772 D UIThread: performTask: Performing background task.
+08-24 15:03:14.824  3924  7596 V DatabaseHelper: insertData: Data inserted into the database.
+08-24 15:03:14.872  9368  2516 E LocationService: resizeImage: Image resized successfully.
+08-24 15:03:14.893  1168  2028 E AuthService: loadImage: Image loaded into view.
+08-24 15:03:14.951  7054  8102 V PaymentProcessor: onResume: Activity is now resumed.
+08-24 15:03:14.982  8838  5761 E BackgroundTask: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:14.989  8521  3400 E DatabaseHelper: stopAnimation: View animation stopped.
+08-24 15:03:15.037  8590  4847 W AuthService: compressData: Data compression completed.
+08-24 15:03:15.128  8806  6139 I PaymentProcessor: loadData: Loading data from the server.
+08-24 15:03:15.156  8488  5925 I AuthService: loadData: Loading data from the server.
+08-24 15:03:15.178  3824  6986 D BackgroundTask: stopAnimation: View animation stopped.
+08-24 15:03:15.217  7825  6893 W LocationService: onPause: Activity is being paused.
+08-24 15:03:15.271  3238  5366 W DatabaseHelper: cacheData: Data cached locally.
+08-24 15:03:15.353  2302  6694 D AuthService: parseResponse: Server response parsed.
+08-24 15:03:15.402  7650  7022 I UIThread: registerReceiver: Broadcast receiver registered.
+08-24 15:03:15.437  1644  7511 D MainActivity: onStop: Activity has stopped.
+08-24 15:03:15.447  2799  1580 D ServiceManager: resizeImage: Image resized successfully.
+08-24 15:03:15.462  4089  5787 D LocationService: onLowMemory: System is running low on memory.
+08-24 15:03:15.552  4592  8012 E LocationService: compressData: Data compression completed.
+08-24 15:03:15.606  8924  6518 D MainActivity: onLowMemory: System is running low on memory.
+08-24 15:03:15.661  4946  2317 E PaymentProcessor: compressData: Data compression completed.
+08-24 15:03:15.752  1761  7501 E LocationService: registerReceiver: Broadcast receiver registered.
+08-24 15:03:15.788  2482  4983 I BackgroundTask: showNotification: Notification displayed to the user.
+08-24 15:03:15.825  4455  1173 D DatabaseHelper: registerReceiver: Broadcast receiver registered.
+08-24 15:03:15.901  2556  4352 V BackgroundTask: compressData: Data compression completed.
+08-24 15:03:15.970  7101  5294 W BackgroundTask: connectDatabase: Database connection established.
+08-24 15:03:16.007  6652  1412 I PaymentProcessor: disconnectDatabase: Database connection closed.
+08-24 15:03:16.072  1073  1039 D MainActivity: onRestart: Activity is being restarted.
+08-24 15:03:16.162  2772  5270 V ServiceManager: onStop: Activity has stopped.
+08-24 15:03:16.222  6401  1228 I UIThread: onResume: Activity is now resumed.
+08-24 15:03:16.236  5894  8002 W NotificationManager: updateUI: UI updated with the latest data.
+08-24 15:03:16.314  7144  2943 I PaymentProcessor: onCreate: Activity is being created.
+08-24 15:03:16.331  5505  5859 D MainActivity: resizeImage: Image resized successfully.
+08-24 15:03:16.352  3820  4954 V NetworkManager: stopAnimation: View animation stopped.
+08-24 15:03:16.416  8261  6899 E LocationService: disconnectDatabase: Database connection closed.
+08-24 15:03:16.452  9012  4813 I UIThread: connectDatabase: Database connection established.
+08-24 15:03:16.527  3070  6837 I BackgroundTask: onStartCommand: Service command received.
+08-24 15:03:16.545  5366  4224 V NetworkManager: onStop: Activity has stopped.
+08-24 15:03:16.558  2550  2001 I DatabaseHelper: insertData: Data inserted into the database.
+08-24 15:03:16.653  8142  3932 D LocationService: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:16.729  7936  6062 I PaymentProcessor: onDestroy: Activity is being destroyed.
+08-24 15:03:16.812  8093  7557 W PaymentProcessor: initView: Initializing views.
+08-24 15:03:16.845  8362  7419 W DatabaseHelper: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:16.940  4873  9921 V MainActivity: processPayment: Payment processed successfully.
+08-24 15:03:17.023  9338  7059 W ServiceManager: showNotification: Notification displayed to the user.
+08-24 15:03:17.031  4139  1946 W DatabaseHelper: disconnectDatabase: Database connection closed.
+08-24 15:03:17.131  8581  6828 D AuthService: syncData: Data synchronization completed.
+08-24 15:03:17.155  9174  8386 D BackgroundTask: onLowMemory: System is running low on memory.
+08-24 15:03:17.215  3843  2305 I AuthService: onStartCommand: Service command received.
+08-24 15:03:17.248  7099  8639 E NotificationManager: onResponse: Response received with status code 200.
+08-24 15:03:17.335  6873  9561 D NotificationManager: onResponse: Response received with status code 200.
+08-24 15:03:17.371  3579  4119 W PaymentProcessor: onFailure: Failed to connect to server, giving up.
+08-24 15:03:17.455  2368  3214 V NotificationManager: decompressData: Data decompression completed.
+08-24 15:03:17.527  3237  4048 V NetworkManager: compressData: Data compression completed.
+08-24 15:03:17.624  7486  4376 D ServiceManager: onCreate: Activity is being created.
+08-24 15:03:17.705  9096  9590 W MainActivity: onCreate: Activity is being created.
+08-24 15:03:17.738  5085  1586 V BackgroundTask: startService: Starting background service.
+08-24 15:03:17.790  3980  5317 E DatabaseHelper: loadImage: Image loaded into view.
+08-24 15:03:17.822  3737  1133 V NotificationManager: onResponse: Response received with status code 200.
+08-24 15:03:17.852  1816  5444 V NotificationManager: onStop: Activity has stopped.
+08-24 15:03:17.871  3646  9028 I UIThread: onFailure: Failed to connect to server, giving up.
+08-24 15:03:17.921  3710  2948 D UIThread: performTask: Performing background task.
+08-24 15:03:17.975  1376  2257 E MainActivity: updateUI: UI updated with the latest data.
+08-24 15:03:18.043  2287  7229 E AuthService: onError: An unexpected error occurred.
+08-24 15:03:18.108  2178  9843 D LocationService: handleIntent: Handling intent action.
+08-24 15:03:18.133  4842  6815 V AuthService: loadData: Loading data from the server.
+08-24 15:03:18.214  9470  9047 I NetworkManager: startService: Starting background service.
+08-24 15:03:18.226  8478  2126 D UIThread: onPause: Activity is being paused.
+08-24 15:03:18.305  5051  6532 E NetworkManager: updateLocation: User location updated.
+08-24 15:03:18.317  6482  2167 I NotificationManager: parseResponse: Server response parsed.
+08-24 15:03:18.396  8222  8047 E BackgroundTask: processPayment: Payment processed successfully.
+08-24 15:03:18.481  7568  4725 W PaymentProcessor: processPayment: Payment processed successfully.
+08-24 15:03:18.538  7630  4565 V UIThread: onResume: Activity is now resumed.
+08-24 15:03:18.573  6976  4673 W NetworkManager: registerReceiver: Broadcast receiver registered.
+08-24 15:03:18.611  7339  7731 V NetworkManager: updateLocation: User location updated.
+08-24 15:03:18.619  5577  7264 I LocationService: cacheData: Data cached locally.
+08-24 15:03:18.682  3083  2342 V DatabaseHelper: processPayment: Payment processed successfully.
+08-24 15:03:18.717  8639  5579 E BackgroundTask: compressData: Data compression completed.
+08-24 15:03:18.718  7008  1022 V NotificationManager: decompressData: Data decompression completed.
+08-24 15:03:18.812  2585  4638 W MainActivity: parseResponse: Server response parsed.
+08-24 15:03:18.912  9110  8176 V BackgroundTask: insertData: Data inserted into the database.
+08-24 15:03:18.998  7310  4124 D LocationService: connectDatabase: Database connection established.
+08-24 15:03:19.053  3851  2718 V PaymentProcessor: validateInput: User input validated successfully.
+08-24 15:03:19.085  6942  5106 V DatabaseHelper: onResume: Activity is now resumed.
+08-24 15:03:19.136  5885  4591 I ServiceManager: validateInput: User input validated successfully.
+08-24 15:03:19.210  9449  6017 W NetworkManager: onError: Network error occurred, retrying request.
+08-24 15:03:19.281  3633  9384 V MainActivity: onFailure: Failed to connect to server, giving up.
+08-24 15:03:19.306  5383  2561 V MainActivity: onStop: Activity has stopped.
+08-24 15:03:19.398  1056  1440 E LocationService: onCreate: Activity is being created.
+08-24 15:03:19.456  1296  7189 I BackgroundTask: onStartCommand: Service command received.
+08-24 15:03:19.521  2940  8079 E MainActivity: insertData: Data inserted into the database.
+08-24 15:03:19.593  8274  7235 E UIThread: loadData: Loading data from the server.
+08-24 15:03:19.594  7855  6357 D NotificationManager: cacheData: Data cached locally.
+08-24 15:03:19.659  6672  8039 V ServiceManager: initView: Initializing views.
+08-24 15:03:19.715  6320  3669 W MainActivity: decryptData: Data decryption completed.
+08-24 15:03:19.770  1735  5167 W NotificationManager: cacheData: Data cached locally.
+08-24 15:03:19.814  6382  8928 V BackgroundTask: validateInput: User input validated successfully.
+08-24 15:03:19.847  1867  4643 E DatabaseHelper: processPayment: Payment processed successfully.
+08-24 15:03:19.942  8827  2459 W NetworkManager: showNotification: Notification displayed to the user.
+08-24 15:03:19.967  9567  1709 W UIThread: encryptData: Data encryption completed.
+08-24 15:03:20.064  6334  8658 D NotificationManager: onLowMemory: System is running low on memory.
+08-24 15:03:20.076  6264  8202 V NotificationManager: registerReceiver: Broadcast receiver registered.
+08-24 15:03:20.136  6020  5423 V ServiceManager: onLowMemory: System is running low on memory.
+08-24 15:03:20.155  1647  9540 I DatabaseHelper: onPause: Activity is being paused.
+08-24 15:03:20.244  2002  7957 V UIThread: encryptData: Data encryption completed.
+08-24 15:03:20.263  8952  7094 D ServiceManager: handleIntent: Handling intent action.
+08-24 15:03:20.360  5720  4702 W NetworkManager: onDestroy: Background service is being destroyed.
+08-24 15:03:20.388  9757  5951 D PaymentProcessor: onFailure: Failed to connect to server, giving up.
+08-24 15:03:20.403  7422  6536 W MainActivity: onError: Network error occurred, retrying request.
+08-24 15:03:20.414  7946  3827 E PaymentProcessor: onLowMemory: System is running low on memory.
+08-24 15:03:20.510  3007  7062 D NetworkManager: onDestroy: Background service is being destroyed.
+08-24 15:03:20.564  6640  9255 V NetworkManager: decryptData: Data decryption completed.
+08-24 15:03:20.651  6255  6727 I MainActivity: onPause: Activity is being paused.
+08-24 15:03:20.660  2942  6335 W AuthService: disconnectDatabase: Database connection closed.
+08-24 15:03:20.748  3756  8575 W MainActivity: performTask: Performing background task.
+08-24 15:03:20.810  6533  8537 E AuthService: updateUI: UI updated with the latest data.
+08-24 15:03:20.877  8002  9418 W BackgroundTask: onFailure: Failed to connect to server, giving up.
+08-24 15:03:20.913  5249  1124 E LocationService: validateInput: User input validated successfully.
+08-24 15:03:20.962  7430  6141 D NotificationManager: disconnectDatabase: Database connection closed.
+08-24 15:03:20.977  7129  3460 I NotificationManager: loadImage: Image loaded into view.
+08-24 15:03:21.037  7957  7191 I MainActivity: onRestart: Activity is being restarted.
+08-24 15:03:21.069  3238  6415 V PaymentProcessor: onLowMemory: System is running low on memory.
+08-24 15:03:21.162  1358  6618 I BackgroundTask: onDestroy: Background service is being destroyed.
+08-24 15:03:21.190  4322  5609 D NotificationManager: animateView: View animation started.
+08-24 15:03:21.218  4996  2839 D UIThread: syncData: Data synchronization completed.
+08-24 15:03:21.298  6784  9198 V NetworkManager: resizeImage: Image resized successfully.
+08-24 15:03:21.323  7608  2812 D MainActivity: onError: An unexpected error occurred.
+08-24 15:03:21.339  1464  7226 W DatabaseHelper: decryptData: Data decryption completed.
+08-24 15:03:21.432  3225  5976 I PaymentProcessor: loadData: Loading data from the server.
+08-24 15:03:21.492  1997  5834 I BackgroundTask: onDestroy: Background service is being destroyed.
+08-24 15:03:21.562  4062  5585 I AuthService: onDestroy: Activity is being destroyed.
+08-24 15:03:21.571  1566  8926 V PaymentProcessor: parseResponse: Server response parsed.
+08-24 15:03:21.615  4978  9634 E MainActivity: onResponse: Response received with status code 200.
+08-24 15:03:21.626  4928  4886 I LocationService: updateUI: UI updated with the latest data.
+08-24 15:03:21.690  1077  1214 D MainActivity: onCreate: Activity is being created.
+08-24 15:03:21.740  7999  8318 E LocationService: onPause: Activity is being paused.
+08-24 15:03:21.839  1998  7551 V LocationService: stopAnimation: View animation stopped.
+08-24 15:03:21.908  7292  6417 V NetworkManager: decompressData: Data decompression completed.
+08-24 15:03:21.955  1943  5428 W PaymentProcessor: updateLocation: User location updated.
+08-24 15:03:21.984  5512  7848 V UIThread: registerReceiver: Broadcast receiver registered.
+08-24 15:03:21.994  2538  7907 V AuthService: performTask: Performing background task.
+08-24 15:03:22.052  7703  2897 E MainActivity: loadImage: Image loaded into view.
+08-24 15:03:22.062  7947  1638 V DatabaseHelper: authenticateUser: User authentication successful.
+08-24 15:03:22.162  8671  9020 V LocationService: connectDatabase: Database connection established.
+08-24 15:03:22.171  7938  7906 D AuthService: updateUI: UI updated with the latest data.
+08-24 15:03:22.261  2797  9949 I PaymentProcessor: parseResponse: Server response parsed.
+08-24 15:03:22.353  2365  7460 E UIThread: resizeImage: Image resized successfully.
+08-24 15:03:22.410  8102  8989 E AuthService: parseResponse: Server response parsed.
+08-24 15:03:22.436  9625  3791 E NetworkManager: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:22.445  7700  5265 D PaymentProcessor: onLowMemory: System is running low on memory.
+08-24 15:03:22.471  9141  3054 D LocationService: startService: Starting background service.
+08-24 15:03:22.491  5098  9061 V PaymentProcessor: onFailure: Failed to connect to server, giving up.
+08-24 15:03:22.508  2145  3935 D PaymentProcessor: encryptData: Data encryption completed.
+08-24 15:03:22.570  5570  3646 E NotificationManager: validateInput: User input validated successfully.
+08-24 15:03:22.618  9076  8506 W NetworkManager: handleIntent: Handling intent action.
+08-24 15:03:22.686  1296  9164 D BackgroundTask: onResume: Activity is now resumed.
+08-24 15:03:22.751  5986  9524 V BackgroundTask: encryptData: Data encryption completed.
+08-24 15:03:22.810  3948  1754 I NetworkManager: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:22.899  4874  6444 D NotificationManager: insertData: Data inserted into the database.
+08-24 15:03:22.927  7096  9689 D MainActivity: processPayment: Payment processed successfully.
+08-24 15:03:22.940  3966  2965 I NetworkManager: onLowMemory: System is running low on memory.
+08-24 15:03:22.944  9130  1806 V ServiceManager: showNotification: Notification displayed to the user.
+08-24 15:03:23.012  5505  1546 V NotificationManager: encryptData: Data encryption completed.
+08-24 15:03:23.018  4406  6123 V BackgroundTask: onResponse: Response received with status code 200.
+08-24 15:03:23.029  7514  6954 E ServiceManager: updateUI: UI updated with the latest data.
+08-24 15:03:23.038  6927  1657 I PaymentProcessor: parseResponse: Server response parsed.
+08-24 15:03:23.073  6952  3766 D DatabaseHelper: encryptData: Data encryption completed.
+08-24 15:03:23.083  9890  9475 I ServiceManager: onResume: Activity is now resumed.
+08-24 15:03:23.180  6239  9194 E NetworkManager: decryptData: Data decryption completed.
+08-24 15:03:23.246  5482  7257 V NetworkManager: onLowMemory: System is running low on memory.
+08-24 15:03:23.330  9560  1528 E NotificationManager: onResponse: Response received with status code 200.
+08-24 15:03:23.362  2717  3814 W UIThread: connectDatabase: Database connection established.
+08-24 15:03:23.446  7595  1583 I ServiceManager: onStop: Activity has stopped.
+08-24 15:03:23.499  9365  5838 D AuthService: initView: Initializing views.
+08-24 15:03:23.556  8529  8962 D UIThread: onError: An unexpected error occurred.
+08-24 15:03:23.648  2627  5997 V BackgroundTask: decryptData: Data decryption completed.
+08-24 15:03:23.732  9389  5843 V AuthService: performTask: Performing background task.
+08-24 15:03:23.770  8563  5217 W PaymentProcessor: onResume: Activity is now resumed.
+08-24 15:03:23.845  6628  3417 I DatabaseHelper: showNotification: Notification displayed to the user.
+08-24 15:03:23.847  2456  1224 I ServiceManager: onError: Network error occurred, retrying request.
+08-24 15:03:23.916  5844  9317 E PaymentProcessor: startService: Starting background service.
+08-24 15:03:23.947  5452  6627 I AuthService: onDestroy: Background service is being destroyed.
+08-24 15:03:23.972  7598  2813 I UIThread: initView: Initializing views.
+08-24 15:03:24.007  5668  8205 I AuthService: onStop: Activity has stopped.
+08-24 15:03:24.064  7164  5423 W DatabaseHelper: decompressData: Data decompression completed.
+08-24 15:03:24.086  8382  1447 W UIThread: onPause: Activity is being paused.
+08-24 15:03:24.177  7637  6350 D UIThread: showNotification: Notification displayed to the user.
+08-24 15:03:24.207  9085  6903 V PaymentProcessor: onPause: Activity is being paused.
+08-24 15:03:24.290  4265  7002 V DatabaseHelper: connectDatabase: Database connection established.
+08-24 15:03:24.361  3291  2868 W NetworkManager: stopAnimation: View animation stopped.
+08-24 15:03:24.417  1195  5064 D AuthService: onResponse: Response received with status code 200.
+08-24 15:03:24.477  1694  5530 D NotificationManager: onLowMemory: System is running low on memory.
+08-24 15:03:24.563  4306  1744 V UIThread: decompressData: Data decompression completed.
+08-24 15:03:24.580  3257  7388 I ServiceManager: onDestroy: Background service is being destroyed.
+08-24 15:03:24.629  9914  1905 I LocationService: onError: Network error occurred, retrying request.
+08-24 15:03:24.661  9192  4702 I MainActivity: processPayment: Payment processed successfully.
+08-24 15:03:24.747  5881  4301 D ServiceManager: onPause: Activity is being paused.
+08-24 15:03:24.749  6606  1428 W PaymentProcessor: parseResponse: Server response parsed.
+08-24 15:03:24.765  8395  5616 D NetworkManager: decryptData: Data decryption completed.
+08-24 15:03:24.798  1701  5791 I NetworkManager: loadData: Loading data from the server.
+08-24 15:03:24.811  1514  6662 I UIThread: disconnectDatabase: Database connection closed.
+08-24 15:03:24.859  4008  2858 E ServiceManager: parseResponse: Server response parsed.
+08-24 15:03:24.916  1827  7453 D NotificationManager: handleIntent: Handling intent action.
+08-24 15:03:24.980  3712  7346 I MainActivity: parseResponse: Server response parsed.
+08-24 15:03:24.989  6039  4436 D DatabaseHelper: onError: Network error occurred, retrying request.
+08-24 15:03:25.089  6395  8292 E UIThread: handleIntent: Handling intent action.
+08-24 15:03:25.158  9101  8350 W NetworkManager: onDestroy: Activity is being destroyed.
+08-24 15:03:25.256  3006  9570 E UIThread: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:25.306  6106  8926 I ServiceManager: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:25.319  6297  1410 V NetworkManager: onCreate: Activity is being created.
+08-24 15:03:25.417  8256  7881 E ServiceManager: onRestart: Activity is being restarted.
+08-24 15:03:25.440  6747  3187 E AuthService: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:25.468  4051  6206 E DatabaseHelper: connectDatabase: Database connection established.
+08-24 15:03:25.533  6523  5091 W AuthService: showNotification: Notification displayed to the user.
+08-24 15:03:25.539  4851  9077 E UIThread: onDestroy: Background service is being destroyed.
+08-24 15:03:25.620  1729  6964 I DatabaseHelper: onError: An unexpected error occurred.
+08-24 15:03:25.710  9380  4023 I NotificationManager: stopAnimation: View animation stopped.
+08-24 15:03:25.772  1469  6994 D AuthService: onError: An unexpected error occurred.
+08-24 15:03:25.866  3407  8687 I MainActivity: onResume: Activity is now resumed.
+08-24 15:03:25.914  6872  8927 E NotificationManager: decompressData: Data decompression completed.
+08-24 15:03:25.956  6164  9838 E NotificationManager: animateView: View animation started.
+08-24 15:03:25.984  7600  3724 D LocationService: validateInput: User input validated successfully.
+08-24 15:03:26.012  1928  7772 D NetworkManager: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:26.080  5179  8527 W PaymentProcessor: cacheData: Data cached locally.
+08-24 15:03:26.138  9036  3481 D UIThread: processPayment: Payment processed successfully.
+08-24 15:03:26.232  2390  9193 E NotificationManager: insertData: Data inserted into the database.
+08-24 15:03:26.237  5511  5306 V ServiceManager: onResponse: Response received with status code 200.
+08-24 15:03:26.303  9009  5954 E MainActivity: decryptData: Data decryption completed.
+08-24 15:03:26.312  2345  6044 V AuthService: resizeImage: Image resized successfully.
+08-24 15:03:26.391  8921  9142 V MainActivity: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:26.397  6491  7029 E LocationService: loadImage: Image loaded into view.
+08-24 15:03:26.484  6444  8483 I NetworkManager: onRestart: Activity is being restarted.
+08-24 15:03:26.493  3134  9693 V DatabaseHelper: onError: Network error occurred, retrying request.
+08-24 15:03:26.511  5719  3081 I NotificationManager: disconnectDatabase: Database connection closed.
+08-24 15:03:26.577  4577  6697 I NotificationManager: parseResponse: Server response parsed.
+08-24 15:03:26.582  2288  7794 E ServiceManager: onRestart: Activity is being restarted.
+08-24 15:03:26.596  3408  5694 W LocationService: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:26.669  5086  6043 D LocationService: startService: Starting background service.
+08-24 15:03:26.737  7637  6104 D UIThread: onResume: Activity is now resumed.
+08-24 15:03:26.757  6789  9036 I NetworkManager: onError: An unexpected error occurred.
+08-24 15:03:26.767  7214  8622 I NetworkManager: resizeImage: Image resized successfully.
+08-24 15:03:26.801  8683  1546 I AuthService: handleIntent: Handling intent action.
+08-24 15:03:26.818  5684  1566 I LocationService: startService: Starting background service.
+08-24 15:03:26.836  1487  2315 I ServiceManager: performTask: Performing background task.
+08-24 15:03:26.875  3333  6185 W MainActivity: initView: Initializing views.
+08-24 15:03:26.947  8834  6818 V UIThread: loadData: Loading data from the server.
+08-24 15:03:26.959  5833  3139 W UIThread: loadData: Loading data from the server.
+08-24 15:03:27.009  9921  7006 E LocationService: onCreate: Activity is being created.
+08-24 15:03:27.084  6806  9714 D NetworkManager: animateView: View animation started.
+08-24 15:03:27.128  7784  7054 W ServiceManager: performTask: Performing background task.
+08-24 15:03:27.172  1277  9897 E LocationService: onError: Network error occurred, retrying request.
+08-24 15:03:27.193  1336  4301 I ServiceManager: registerReceiver: Broadcast receiver registered.
+08-24 15:03:27.204  1873  1754 W AuthService: disconnectDatabase: Database connection closed.
+08-24 15:03:27.263  5045  1966 D LocationService: authenticateUser: User authentication successful.
+08-24 15:03:27.311  4647  8018 I PaymentProcessor: registerReceiver: Broadcast receiver registered.
+08-24 15:03:27.371  5217  9090 W ServiceManager: validateInput: User input validated successfully.
+08-24 15:03:27.469  8601  8538 W AuthService: encryptData: Data encryption completed.
+08-24 15:03:27.474  8715  3099 I AuthService: syncData: Data synchronization completed.
+08-24 15:03:27.569  4729  6357 W PaymentProcessor: onResponse: Response received with status code 200.
+08-24 15:03:27.609  5071  3632 W LocationService: onRestart: Activity is being restarted.
+08-24 15:03:27.676  5179  4040 D UIThread: loadData: Loading data from the server.
+08-24 15:03:27.722  5205  2989 E MainActivity: onLowMemory: System is running low on memory.
+08-24 15:03:27.777  9333  9682 V MainActivity: connectDatabase: Database connection established.
+08-24 15:03:27.797  2226  2065 D MainActivity: decompressData: Data decompression completed.
+08-24 15:03:27.806  5311  2563 I UIThread: onStartCommand: Service command received.
+08-24 15:03:27.874  6083  4040 V AuthService: handleIntent: Handling intent action.
+08-24 15:03:27.937  3014  7086 I ServiceManager: onDestroy: Background service is being destroyed.
+08-24 15:03:27.988  8036  9872 W PaymentProcessor: resizeImage: Image resized successfully.
+08-24 15:03:27.998  6231  6828 W LocationService: validateInput: User input validated successfully.
+08-24 15:03:28.016  6012  5943 I LocationService: onPause: Activity is being paused.
+08-24 15:03:28.078  9946  3922 V NotificationManager: onResponse: Response received with status code 200.
+08-24 15:03:28.079  6859  2067 E ServiceManager: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:28.179  7123  1546 I LocationService: parseResponse: Server response parsed.
+08-24 15:03:28.253  9186  5506 I NotificationManager: onLowMemory: System is running low on memory.
+08-24 15:03:28.288  5837  9066 V MainActivity: loadData: Loading data from the server.
+08-24 15:03:28.321  6019  7396 D DatabaseHelper: onStartCommand: Service command received.
+08-24 15:03:28.359  3297  1198 E NotificationManager: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:28.404  2568  8079 V NetworkManager: onDestroy: Activity is being destroyed.
+08-24 15:03:28.470  6211  1040 I AuthService: connectDatabase: Database connection established.
+08-24 15:03:28.493  7343  7843 I NetworkManager: stopAnimation: View animation stopped.
+08-24 15:03:28.558  6249  1771 D UIThread: onStop: Activity has stopped.
+08-24 15:03:28.567  4683  5531 I NetworkManager: resizeImage: Image resized successfully.
+08-24 15:03:28.663  9783  9475 I LocationService: stopAnimation: View animation stopped.
+08-24 15:03:28.712  3638  4666 E LocationService: disconnectDatabase: Database connection closed.
+08-24 15:03:28.740  1100  1389 I BackgroundTask: connectDatabase: Database connection established.
+08-24 15:03:28.799  7650  2971 V BackgroundTask: showNotification: Notification displayed to the user.
+08-24 15:03:28.812  9196  5064 V LocationService: disconnectDatabase: Database connection closed.
+08-24 15:03:28.910  7662  5963 V PaymentProcessor: onLowMemory: System is running low on memory.
+08-24 15:03:28.999  2389  3100 D PaymentProcessor: disconnectDatabase: Database connection closed.
+08-24 15:03:29.047  4774  1118 W NetworkManager: onCreate: Activity is being created.
+08-24 15:03:29.092  7001  5265 E MainActivity: loadData: Loading data from the server.
+08-24 15:03:29.165  8671  3861 I BackgroundTask: showNotification: Notification displayed to the user.
+08-24 15:03:29.179  7604  7758 W MainActivity: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:29.219  5347  2135 E MainActivity: onRestart: Activity is being restarted.
+08-24 15:03:29.296  8029  9854 V PaymentProcessor: cacheData: Data cached locally.
+08-24 15:03:29.302  1688  6201 W PaymentProcessor: onError: Network error occurred, retrying request.
+08-24 15:03:29.378  9596  5676 I ServiceManager: parseResponse: Server response parsed.
+08-24 15:03:29.467  9887  6479 E ServiceManager: stopAnimation: View animation stopped.
+08-24 15:03:29.528  3296  7804 V MainActivity: onCreate: Activity is being created.
+08-24 15:03:29.570  2245  7469 I BackgroundTask: animateView: View animation started.
+08-24 15:03:29.605  2654  1752 I NotificationManager: onLowMemory: System is running low on memory.
+08-24 15:03:29.657  4385  9795 D DatabaseHelper: onError: An unexpected error occurred.
+08-24 15:03:29.686  4835  6557 W NotificationManager: validateInput: User input validated successfully.
+08-24 15:03:29.752  7921  2819 V LocationService: onCreate: Activity is being created.
+08-24 15:03:29.823  1894  1938 W LocationService: registerReceiver: Broadcast receiver registered.
+08-24 15:03:29.826  8397  8466 I AuthService: syncData: Data synchronization completed.
+08-24 15:03:29.860  6947  4340 D NotificationManager: loadImage: Image loaded into view.
+08-24 15:03:29.910  5158  5336 W LocationService: parseResponse: Server response parsed.
+08-24 15:03:29.912  7667  2107 E BackgroundTask: onResume: Activity is now resumed.
+08-24 15:03:29.947  4621  8447 E AuthService: validateInput: User input validated successfully.
+08-24 15:03:29.960  1353  4154 V AuthService: registerReceiver: Broadcast receiver registered.
+08-24 15:03:29.982  4692  7669 W DatabaseHelper: updateLocation: User location updated.
+08-24 15:03:30.026  7313  7160 D NotificationManager: authenticateUser: User authentication successful.
+08-24 15:03:30.080  1735  5605 D DatabaseHelper: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:30.128  6677  4365 D MainActivity: registerReceiver: Broadcast receiver registered.
+08-24 15:03:30.219  3904  7627 D MainActivity: onPause: Activity is being paused.
+08-24 15:03:30.269  6080  1490 W DatabaseHelper: handleIntent: Handling intent action.
+08-24 15:03:30.357  4514  1353 V UIThread: decompressData: Data decompression completed.
+08-24 15:03:30.389  7540  4045 V NetworkManager: onError: An unexpected error occurred.
+08-24 15:03:30.450  1793  2151 W MainActivity: updateLocation: User location updated.
+08-24 15:03:30.509  4694  9613 V LocationService: performTask: Performing background task.
+08-24 15:03:30.563  7668  5739 I NetworkManager: onCreate: Activity is being created.
+08-24 15:03:30.651  2635  9901 W LocationService: onDestroy: Background service is being destroyed.
+08-24 15:03:30.699  9253  8741 W NotificationManager: disconnectDatabase: Database connection closed.
+08-24 15:03:30.773  4342  2612 E MainActivity: parseResponse: Server response parsed.
+08-24 15:03:30.786  5613  7088 W PaymentProcessor: processPayment: Payment processed successfully.
+08-24 15:03:30.843  9105  1677 V NotificationManager: onFailure: Failed to connect to server, giving up.
+08-24 15:03:30.848  3670  3869 E MainActivity: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:30.930  9637  2301 E BackgroundTask: startService: Starting background service.
+08-24 15:03:30.969  5515  7704 D NotificationManager: validateInput: User input validated successfully.
+08-24 15:03:30.997  9737  8759 I NotificationManager: onCreate: Activity is being created.
+08-24 15:03:31.019  6775  8031 V BackgroundTask: onDestroy: Activity is being destroyed.
+08-24 15:03:31.025  4476  1339 V MainActivity: resizeImage: Image resized successfully.
+08-24 15:03:31.061  5939  6283 V DatabaseHelper: disconnectDatabase: Database connection closed.
+08-24 15:03:31.100  2665  5798 W DatabaseHelper: processPayment: Payment processed successfully.
+08-24 15:03:31.136  8453  4882 E DatabaseHelper: onDestroy: Background service is being destroyed.
+08-24 15:03:31.138  5080  6198 W NetworkManager: onResponse: Response received with status code 200.
+08-24 15:03:31.235  9950  9029 I NetworkManager: decompressData: Data decompression completed.
+08-24 15:03:31.287  9380  9133 W ServiceManager: disconnectDatabase: Database connection closed.
+08-24 15:03:31.316  6119  1268 W PaymentProcessor: showNotification: Notification displayed to the user.
+08-24 15:03:31.354  7824  5600 E NotificationManager: disconnectDatabase: Database connection closed.
+08-24 15:03:31.432  3939  8725 I DatabaseHelper: disconnectDatabase: Database connection closed.
+08-24 15:03:31.437  5844  3010 E BackgroundTask: performTask: Performing background task.
+08-24 15:03:31.531  2898  9488 W LocationService: disconnectDatabase: Database connection closed.
+08-24 15:03:31.571  9200  8906 W NetworkManager: onDestroy: Activity is being destroyed.
+08-24 15:03:31.638  6494  4418 V NotificationManager: onPause: Activity is being paused.
+08-24 15:03:31.699  6223  6989 I NetworkManager: processPayment: Payment processed successfully.
+08-24 15:03:31.791  9662  6695 I DatabaseHelper: registerReceiver: Broadcast receiver registered.
+08-24 15:03:31.852  5620  7384 D PaymentProcessor: decryptData: Data decryption completed.
+08-24 15:03:31.926  3415  9176 I PaymentProcessor: onRestart: Activity is being restarted.
+08-24 15:03:31.966  5782  5533 E LocationService: disconnectDatabase: Database connection closed.
+08-24 15:03:32.032  1163  3857 E UIThread: onCreate: Activity is being created.
+08-24 15:03:32.118  5149  5464 I BackgroundTask: handleIntent: Handling intent action.
+08-24 15:03:32.209  6545  2434 V MainActivity: showNotification: Notification displayed to the user.
+08-24 15:03:32.263  9390  7014 I NotificationManager: authenticateUser: User authentication successful.
+08-24 15:03:32.352  7268  6558 E PaymentProcessor: onStop: Activity has stopped.
+08-24 15:03:32.390  4225  6433 E BackgroundTask: connectDatabase: Database connection established.
+08-24 15:03:32.455  9866  7539 I PaymentProcessor: onPause: Activity is being paused.
+08-24 15:03:32.535  9259  6041 W NotificationManager: loadData: Loading data from the server.
+08-24 15:03:32.578  7148  2965 V NotificationManager: stopAnimation: View animation stopped.
+08-24 15:03:32.610  8388  7514 D NotificationManager: decompressData: Data decompression completed.
+08-24 15:03:32.701  8884  7767 W AuthService: onRestart: Activity is being restarted.
+08-24 15:03:32.724  2583  7981 I MainActivity: updateLocation: User location updated.
+08-24 15:03:32.807  6838  1416 E PaymentProcessor: onRestart: Activity is being restarted.
+08-24 15:03:32.865  2176  3691 E AuthService: loadData: Loading data from the server.
+08-24 15:03:32.887  4014  6991 W LocationService: onRestart: Activity is being restarted.
+08-24 15:03:32.891  5415  7124 E MainActivity: encryptData: Data encryption completed.
+08-24 15:03:32.962  9352  5287 D MainActivity: onPause: Activity is being paused.
+08-24 15:03:33.012  7221  4283 W UIThread: updateLocation: User location updated.
+08-24 15:03:33.103  1845  4158 D MainActivity: onStartCommand: Service command received.
+08-24 15:03:33.112  1798  6243 V NotificationManager: updateUI: UI updated with the latest data.
+08-24 15:03:33.163  7390  7024 I AuthService: onError: Network error occurred, retrying request.
+08-24 15:03:33.237  3263  5233 E PaymentProcessor: onStop: Activity has stopped.
+08-24 15:03:33.261  6639  2903 V UIThread: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:33.339  9410  6762 D UIThread: connectDatabase: Database connection established.
+08-24 15:03:33.425  1612  3073 D LocationService: onStop: Activity has stopped.
+08-24 15:03:33.452  7124  4627 V MainActivity: onDestroy: Background service is being destroyed.
+08-24 15:03:33.475  7564  2896 I AuthService: onResponse: Response received with status code 200.
+08-24 15:03:33.553  5410  3139 D DatabaseHelper: decryptData: Data decryption completed.
+08-24 15:03:33.614  5539  7547 V ServiceManager: onRestart: Activity is being restarted.
+08-24 15:03:33.627  9115  1069 I MainActivity: onError: Network error occurred, retrying request.
+08-24 15:03:33.705  9798  9868 D AuthService: updateUI: UI updated with the latest data.
+08-24 15:03:33.794  4535  3013 V AuthService: updateLocation: User location updated.
+08-24 15:03:33.851  2789  5142 E MainActivity: onResume: Activity is now resumed.
+08-24 15:03:33.897  9484  3753 D BackgroundTask: insertData: Data inserted into the database.
+08-24 15:03:33.952  3282  7845 W MainActivity: insertData: Data inserted into the database.
+08-24 15:03:34.048  6120  4667 E DatabaseHelper: authenticateUser: User authentication successful.
+08-24 15:03:34.069  9463  2297 I LocationService: decompressData: Data decompression completed.
+08-24 15:03:34.167  2915  4878 D BackgroundTask: decryptData: Data decryption completed.
+08-24 15:03:34.174  1334  3212 E LocationService: insertData: Data inserted into the database.
+08-24 15:03:34.267  7051  1718 E BackgroundTask: onRestart: Activity is being restarted.
+08-24 15:03:34.348  1306  5461 I BackgroundTask: resizeImage: Image resized successfully.
+08-24 15:03:34.376  7767  4250 W LocationService: onStop: Activity has stopped.
+08-24 15:03:34.394  1163  8061 W NotificationManager: onPause: Activity is being paused.
+08-24 15:03:34.481  9670  5010 E UIThread: onStop: Activity has stopped.
+08-24 15:03:34.530  9831  2082 W BackgroundTask: parseResponse: Server response parsed.
+08-24 15:03:34.617  3238  2220 W AuthService: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:34.662  8452  1371 I NetworkManager: validateInput: User input validated successfully.
+08-24 15:03:34.755  6787  6212 W LocationService: registerReceiver: Broadcast receiver registered.
+08-24 15:03:34.769  5543  4628 I NetworkManager: processPayment: Payment processed successfully.
+08-24 15:03:34.775  3089  6775 W BackgroundTask: loadData: Loading data from the server.
+08-24 15:03:34.833  7408  8968 I NotificationManager: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:34.928  1361  5404 W AuthService: parseResponse: Server response parsed.
+08-24 15:03:34.988  1641  2250 V MainActivity: cacheData: Data cached locally.
+08-24 15:03:34.999  3124  4181 E PaymentProcessor: startService: Starting background service.
+08-24 15:03:35.029  9189  4072 D BackgroundTask: connectDatabase: Database connection established.
+08-24 15:03:35.100  2459  8853 E AuthService: insertData: Data inserted into the database.
+08-24 15:03:35.164  8098  6559 V ServiceManager: handleIntent: Handling intent action.
+08-24 15:03:35.169  8224  1871 E NotificationManager: processPayment: Payment processed successfully.
+08-24 15:03:35.189  6956  8286 D LocationService: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:35.195  7715  9049 E UIThread: performTask: Performing background task.
+08-24 15:03:35.226  5372  1922 W MainActivity: resizeImage: Image resized successfully.
+08-24 15:03:35.234  1745  2631 I NotificationManager: parseResponse: Server response parsed.
+08-24 15:03:35.325  2803  9140 V UIThread: handleIntent: Handling intent action.
+08-24 15:03:35.342  7043  9823 W DatabaseHelper: decompressData: Data decompression completed.
+08-24 15:03:35.430  8935  5871 E NotificationManager: connectDatabase: Database connection established.
+08-24 15:03:35.490  3597  7802 E LocationService: validateInput: User input validated successfully.
+08-24 15:03:35.528  7470  3112 D MainActivity: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:35.594  8015  7104 I NetworkManager: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:35.664  4018  1281 W MainActivity: compressData: Data compression completed.
+08-24 15:03:35.760  4250  5952 V NetworkManager: resizeImage: Image resized successfully.
+08-24 15:03:35.775  7213  5343 V AuthService: onRestart: Activity is being restarted.
+08-24 15:03:35.814  3090  6066 W NetworkManager: onCreate: Activity is being created.
+08-24 15:03:35.901  3306  4254 D LocationService: registerReceiver: Broadcast receiver registered.
+08-24 15:03:35.956  4376  3520 I NotificationManager: loadImage: Image loaded into view.
+08-24 15:03:36.016  9360  2301 I AuthService: validateInput: User input validated successfully.
+08-24 15:03:36.036  4741  5718 I NetworkManager: onError: Network error occurred, retrying request.
+08-24 15:03:36.046  3161  3641 V MainActivity: insertData: Data inserted into the database.
+08-24 15:03:36.127  8469  5421 I UIThread: showNotification: Notification displayed to the user.
+08-24 15:03:36.222  8902  4375 V DatabaseHelper: decryptData: Data decryption completed.
+08-24 15:03:36.264  4384  7616 V NetworkManager: validateInput: User input validated successfully.
+08-24 15:03:36.323  2244  9139 E ServiceManager: parseResponse: Server response parsed.
+08-24 15:03:36.345  7377  6009 I LocationService: onDestroy: Background service is being destroyed.
+08-24 15:03:36.403  7772  4307 D NotificationManager: performTask: Performing background task.
+08-24 15:03:36.467  7687  8491 E DatabaseHelper: onError: An unexpected error occurred.
+08-24 15:03:36.532  5273  1881 E ServiceManager: onRestart: Activity is being restarted.
+08-24 15:03:36.632  5378  6611 D NotificationManager: initView: Initializing views.
+08-24 15:03:36.641  2637  3799 V BackgroundTask: decryptData: Data decryption completed.
+08-24 15:03:36.720  8376  3191 W UIThread: validateInput: User input validated successfully.
+08-24 15:03:36.781  1583  8450 W UIThread: onFailure: Failed to connect to server, giving up.
+08-24 15:03:36.783  9753  3120 D MainActivity: onDestroy: Background service is being destroyed.
+08-24 15:03:36.866  1307  4895 D ServiceManager: parseResponse: Server response parsed.
+08-24 15:03:36.955  8433  8781 W NotificationManager: updateLocation: User location updated.
+08-24 15:03:36.992  3297  8827 D MainActivity: compressData: Data compression completed.
+08-24 15:03:36.998  4536  1822 V PaymentProcessor: connectDatabase: Database connection established.
+08-24 15:03:37.063  7770  5080 V BackgroundTask: compressData: Data compression completed.
+08-24 15:03:37.073  2216  2118 V DatabaseHelper: onFailure: Failed to connect to server, giving up.
+08-24 15:03:37.077  1673  6775 V ServiceManager: onPause: Activity is being paused.
+08-24 15:03:37.084  1549  9092 V UIThread: onCreate: Activity is being created.
+08-24 15:03:37.168  8738  1334 V UIThread: onResume: Activity is now resumed.
+08-24 15:03:37.206  7058  1948 I LocationService: parseResponse: Server response parsed.
+08-24 15:03:37.259  8950  5377 D UIThread: cacheData: Data cached locally.
+08-24 15:03:37.288  1999  4577 E BackgroundTask: onRestart: Activity is being restarted.
+08-24 15:03:37.340  4304  8731 V NotificationManager: startService: Starting background service.
+08-24 15:03:37.435  7820  1209 I BackgroundTask: onError: An unexpected error occurred.
+08-24 15:03:37.445  7880  7265 W AuthService: validateInput: User input validated successfully.
+08-24 15:03:37.489  6170  7293 W NotificationManager: updateUI: UI updated with the latest data.
+08-24 15:03:37.522  5658  8167 I ServiceManager: onLowMemory: System is running low on memory.
+08-24 15:03:37.614  7716  3611 D MainActivity: onStop: Activity has stopped.
+08-24 15:03:37.700  5706  1109 D NetworkManager: onFailure: Failed to connect to server, giving up.
+08-24 15:03:37.733  9709  6812 V DatabaseHelper: onFailure: Failed to connect to server, giving up.
+08-24 15:03:37.825  5371  1364 E AuthService: cacheData: Data cached locally.
+08-24 15:03:37.914  7441  7591 D AuthService: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:38.003  5022  7227 W MainActivity: performTask: Performing background task.
+08-24 15:03:38.032  1423  2244 W ServiceManager: registerReceiver: Broadcast receiver registered.
+08-24 15:03:38.094  8507  4817 E NotificationManager: onResume: Activity is now resumed.
+08-24 15:03:38.111  4126  8821 D NotificationManager: animateView: View animation started.
+08-24 15:03:38.174  2459  2967 E NotificationManager: disconnectDatabase: Database connection closed.
+08-24 15:03:38.234  9316  1147 I NetworkManager: processPayment: Payment processed successfully.
+08-24 15:03:38.260  9958  6748 I ServiceManager: showNotification: Notification displayed to the user.
+08-24 15:03:38.262  7142  8913 V PaymentProcessor: onError: An unexpected error occurred.
+08-24 15:03:38.275  3747  9918 W BackgroundTask: encryptData: Data encryption completed.
+08-24 15:03:38.369  1356  7013 W NetworkManager: performTask: Performing background task.
+08-24 15:03:38.418  4413  1284 V ServiceManager: animateView: View animation started.
+08-24 15:03:38.486  9751  4418 I NetworkManager: connectDatabase: Database connection established.
+08-24 15:03:38.496  3828  4425 E LocationService: decompressData: Data decompression completed.
+08-24 15:03:38.590  3914  6570 V AuthService: onError: Network error occurred, retrying request.
+08-24 15:03:38.627  8043  8226 V NotificationManager: loadImage: Image loaded into view.
+08-24 15:03:38.673  5893  9699 W NotificationManager: disconnectDatabase: Database connection closed.
+08-24 15:03:38.735  9124  2281 E ServiceManager: onError: An unexpected error occurred.
+08-24 15:03:38.815  9317  5502 V PaymentProcessor: loadImage: Image loaded into view.
+08-24 15:03:38.912  3967  7412 I ServiceManager: onDestroy: Activity is being destroyed.
+08-24 15:03:38.958  7851  5458 V AuthService: validateInput: User input validated successfully.
+08-24 15:03:38.985  7496  1741 D LocationService: decryptData: Data decryption completed.
+08-24 15:03:39.075  3020  7981 I DatabaseHelper: loadImage: Image loaded into view.
+08-24 15:03:39.155  5777  3635 E ServiceManager: disconnectDatabase: Database connection closed.
+08-24 15:03:39.189  8825  8565 V LocationService: validateInput: User input validated successfully.
+08-24 15:03:39.285  5755  4471 D UIThread: updateUI: UI updated with the latest data.
+08-24 15:03:39.335  9913  8475 E UIThread: updateUI: UI updated with the latest data.
+08-24 15:03:39.380  6618  1664 V AuthService: connectDatabase: Database connection established.
+08-24 15:03:39.433  7023  7693 I NotificationManager: compressData: Data compression completed.
+08-24 15:03:39.446  7241  3669 V NotificationManager: onResponse: Response received with status code 200.
+08-24 15:03:39.541  2496  7137 D AuthService: decryptData: Data decryption completed.
+08-24 15:03:39.577  3163  4442 E ServiceManager: onError: An unexpected error occurred.
+08-24 15:03:39.648  1851  1402 W PaymentProcessor: loadData: Loading data from the server.
+08-24 15:03:39.732  7085  8010 I DatabaseHelper: disconnectDatabase: Database connection closed.
+08-24 15:03:39.781  8086  1986 D NotificationManager: onFailure: Failed to connect to server, giving up.
+08-24 15:03:39.839  7216  2239 W NotificationManager: insertData: Data inserted into the database.
+08-24 15:03:39.897  1189  8194 V NotificationManager: decryptData: Data decryption completed.
+08-24 15:03:39.969  3684  3370 I UIThread: performTask: Performing background task.
+08-24 15:03:40.060  8474  1393 W MainActivity: onStartCommand: Service command received.
+08-24 15:03:40.072  7517  4403 V LocationService: insertData: Data inserted into the database.
+08-24 15:03:40.075  9275  5212 E BackgroundTask: decompressData: Data decompression completed.
+08-24 15:03:40.100  1566  9649 W DatabaseHelper: cacheData: Data cached locally.
+08-24 15:03:40.126  6737  4745 W MainActivity: loadImage: Image loaded into view.
+08-24 15:03:40.225  6069  5717 E MainActivity: onPause: Activity is being paused.
+08-24 15:03:40.270  2706  8755 E UIThread: registerReceiver: Broadcast receiver registered.
+08-24 15:03:40.370  9261  9914 W PaymentProcessor: decompressData: Data decompression completed.
+08-24 15:03:40.393  2905  7010 D BackgroundTask: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:40.465  5830  3240 V PaymentProcessor: connectDatabase: Database connection established.
+08-24 15:03:40.523  5072  7536 V DatabaseHelper: startService: Starting background service.
+08-24 15:03:40.575  2182  6072 D UIThread: performTask: Performing background task.
+08-24 15:03:40.591  3948  4566 E LocationService: stopAnimation: View animation stopped.
+08-24 15:03:40.665  8573  2078 D DatabaseHelper: onStop: Activity has stopped.
+08-24 15:03:40.693  2776  9339 D BackgroundTask: disconnectDatabase: Database connection closed.
+08-24 15:03:40.787  5717  8491 I ServiceManager: syncData: Data synchronization completed.
+08-24 15:03:40.884  6485  2904 D NotificationManager: onDestroy: Activity is being destroyed.
+08-24 15:03:40.908  3283  8502 V DatabaseHelper: onResume: Activity is now resumed.
+08-24 15:03:40.943  2412  4545 V ServiceManager: onFailure: Failed to connect to server, giving up.
+08-24 15:03:41.008  7121  5629 V LocationService: connectDatabase: Database connection established.
+08-24 15:03:41.024  8164  1121 E NotificationManager: connectDatabase: Database connection established.
+08-24 15:03:41.105  4011  2919 V PaymentProcessor: syncData: Data synchronization completed.
+08-24 15:03:41.196  2174  8881 E NotificationManager: initView: Initializing views.
+08-24 15:03:41.217  8793  7778 V AuthService: cacheData: Data cached locally.
+08-24 15:03:41.274  5931  6568 D LocationService: loadImage: Image loaded into view.
+08-24 15:03:41.304  7382  5618 V AuthService: loadData: Loading data from the server.
+08-24 15:03:41.389  4341  1374 I MainActivity: onPause: Activity is being paused.
+08-24 15:03:41.471  5671  9250 I NotificationManager: onResume: Activity is now resumed.
+08-24 15:03:41.485  3990  1291 D ServiceManager: connectDatabase: Database connection established.
+08-24 15:03:41.577  7523  2922 W PaymentProcessor: onRestart: Activity is being restarted.
+08-24 15:03:41.677  7639  4466 W NetworkManager: cacheData: Data cached locally.
+08-24 15:03:41.768  2382  3791 D DatabaseHelper: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:41.842  2400  9212 V BackgroundTask: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:41.905  9513  3259 D DatabaseHelper: processPayment: Payment processed successfully.
+08-24 15:03:41.961  2290  2041 D ServiceManager: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:41.987  1373  3930 W LocationService: validateInput: User input validated successfully.
+08-24 15:03:42.061  2589  5095 V NotificationManager: onDestroy: Activity is being destroyed.
+08-24 15:03:42.119  2219  8923 E NotificationManager: performTask: Performing background task.
+08-24 15:03:42.121  9153  2061 W PaymentProcessor: validateInput: User input validated successfully.
+08-24 15:03:42.152  5639  1232 D UIThread: loadImage: Image loaded into view.
+08-24 15:03:42.243  8957  2020 I AuthService: loadData: Loading data from the server.
+08-24 15:03:42.297  4215  2708 W BackgroundTask: compressData: Data compression completed.
+08-24 15:03:42.307  9820  7415 V DatabaseHelper: cacheData: Data cached locally.
+08-24 15:03:42.313  3405  7957 I DatabaseHelper: compressData: Data compression completed.
+08-24 15:03:42.388  4614  7045 D LocationService: onRestart: Activity is being restarted.
+08-24 15:03:42.464  8351  1615 D LocationService: onFailure: Failed to connect to server, giving up.
+08-24 15:03:42.498  5992  9597 I MainActivity: onResume: Activity is now resumed.
+08-24 15:03:42.502  2728  4842 I ServiceManager: initView: Initializing views.
+08-24 15:03:42.559  5570  1881 W MainActivity: registerReceiver: Broadcast receiver registered.
+08-24 15:03:42.564  9767  3116 D ServiceManager: animateView: View animation started.
+08-24 15:03:42.592  4197  5772 W UIThread: initView: Initializing views.
+08-24 15:03:42.659  7829  8487 V PaymentProcessor: disconnectDatabase: Database connection closed.
+08-24 15:03:42.703  6101  6411 I NotificationManager: onDestroy: Background service is being destroyed.
+08-24 15:03:42.707  1580  1537 W LocationService: handleIntent: Handling intent action.
+08-24 15:03:42.758  3062  2255 W NetworkManager: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:42.829  5979  1126 W DatabaseHelper: decryptData: Data decryption completed.
+08-24 15:03:42.844  4906  8463 W BackgroundTask: onDestroy: Background service is being destroyed.
+08-24 15:03:42.891  9150  9472 I LocationService: authenticateUser: User authentication successful.
+08-24 15:03:42.913  6725  9867 I ServiceManager: animateView: View animation started.
+08-24 15:03:42.997  8303  3229 D BackgroundTask: loadImage: Image loaded into view.
+08-24 15:03:43.005  5251  7855 V NotificationManager: updateLocation: User location updated.
+08-24 15:03:43.045  5100  9253 D AuthService: onDestroy: Background service is being destroyed.
+08-24 15:03:43.122  3855  5735 E NotificationManager: handleIntent: Handling intent action.
+08-24 15:03:43.154  5991  5730 W LocationService: resizeImage: Image resized successfully.
+08-24 15:03:43.239  9537  1342 D DatabaseHelper: connectDatabase: Database connection established.
+08-24 15:03:43.299  7148  9028 E ServiceManager: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:43.302  3699  8572 W PaymentProcessor: stopAnimation: View animation stopped.
+08-24 15:03:43.401  4208  8444 I AuthService: performTask: Performing background task.
+08-24 15:03:43.465  7179  4254 D UIThread: onFailure: Failed to connect to server, giving up.
+08-24 15:03:43.476  8868  8079 E NetworkManager: showNotification: Notification displayed to the user.
+08-24 15:03:43.514  5412  3938 V NotificationManager: loadImage: Image loaded into view.
+08-24 15:03:43.534  2329  1997 E DatabaseHelper: processPayment: Payment processed successfully.
+08-24 15:03:43.600  7739  4973 E DatabaseHelper: validateInput: User input validated successfully.
+08-24 15:03:43.664  1165  3377 V LocationService: onLowMemory: System is running low on memory.
+08-24 15:03:43.763  2659  5266 D NetworkManager: onDestroy: Activity is being destroyed.
+08-24 15:03:43.848  3239  6439 I MainActivity: onDestroy: Activity is being destroyed.
+08-24 15:03:43.930  2734  8484 V BackgroundTask: stopAnimation: View animation stopped.
+08-24 15:03:44.024  5366  7836 I MainActivity: parseResponse: Server response parsed.
+08-24 15:03:44.027  2192  8170 V UIThread: connectDatabase: Database connection established.
+08-24 15:03:44.066  7443  9255 W NotificationManager: registerReceiver: Broadcast receiver registered.
+08-24 15:03:44.132  7221  4797 V LocationService: onResponse: Response received with status code 200.
+08-24 15:03:44.203  5729  9367 W NetworkManager: authenticateUser: User authentication successful.
+08-24 15:03:44.280  5480  5750 D NetworkManager: authenticateUser: User authentication successful.
+08-24 15:03:44.286  6777  5112 I BackgroundTask: onFailure: Failed to connect to server, giving up.
+08-24 15:03:44.298  7082  9409 D ServiceManager: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:44.371  5549  2947 E DatabaseHelper: decryptData: Data decryption completed.
+08-24 15:03:44.416  8662  9177 D DatabaseHelper: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:44.464  4847  8098 W DatabaseHelper: showNotification: Notification displayed to the user.
+08-24 15:03:44.485  7083  1944 D BackgroundTask: parseResponse: Server response parsed.
+08-24 15:03:44.574  6186  2480 E MainActivity: onPause: Activity is being paused.
+08-24 15:03:44.618  8387  2277 V ServiceManager: onStop: Activity has stopped.
+08-24 15:03:44.663  6113  3256 I NetworkManager: authenticateUser: User authentication successful.
+08-24 15:03:44.722  4131  3962 I PaymentProcessor: cacheData: Data cached locally.
+08-24 15:03:44.742  9442  8174 V LocationService: onResponse: Response received with status code 200.
+08-24 15:03:44.777  4770  3798 I NotificationManager: onDestroy: Activity is being destroyed.
+08-24 15:03:44.841  9473  9327 V PaymentProcessor: compressData: Data compression completed.
+08-24 15:03:44.934  5017  5836 E MainActivity: loadImage: Image loaded into view.
+08-24 15:03:44.957  8703  6993 I PaymentProcessor: validateInput: User input validated successfully.
+08-24 15:03:45.057  6470  1968 E BackgroundTask: disconnectDatabase: Database connection closed.
+08-24 15:03:45.082  2368  4317 W NotificationManager: registerReceiver: Broadcast receiver registered.
+08-24 15:03:45.084  8835  1174 E LocationService: decompressData: Data decompression completed.
+08-24 15:03:45.155  7924  2138 W ServiceManager: parseResponse: Server response parsed.
+08-24 15:03:45.165  8694  1837 D ServiceManager: updateUI: UI updated with the latest data.
+08-24 15:03:45.167  6624  5398 W LocationService: updateUI: UI updated with the latest data.
+08-24 15:03:45.214  4219  5075 V DatabaseHelper: registerReceiver: Broadcast receiver registered.
+08-24 15:03:45.260  3683  2315 E UIThread: onResponse: Response received with status code 200.
+08-24 15:03:45.356  5402  3845 E NetworkManager: connectDatabase: Database connection established.
+08-24 15:03:45.390  6005  9333 D UIThread: onDestroy: Activity is being destroyed.
+08-24 15:03:45.452  4481  9386 I AuthService: loadImage: Image loaded into view.
+08-24 15:03:45.492  4759  8810 V NotificationManager: showNotification: Notification displayed to the user.
+08-24 15:03:45.501  3501  2199 W UIThread: handleIntent: Handling intent action.
+08-24 15:03:45.538  8265  4561 V LocationService: updateLocation: User location updated.
+08-24 15:03:45.632  6677  1282 D PaymentProcessor: showNotification: Notification displayed to the user.
+08-24 15:03:45.715  4525  6939 W NetworkManager: startService: Starting background service.
+08-24 15:03:45.782  5459  1252 V MainActivity: compressData: Data compression completed.
+08-24 15:03:45.827  5653  5296 I BackgroundTask: loadData: Loading data from the server.
+08-24 15:03:45.884  2907  9677 W LocationService: loadImage: Image loaded into view.
+08-24 15:03:45.951  5429  5047 W ServiceManager: onError: Network error occurred, retrying request.
+08-24 15:03:46.035  5470  3517 W ServiceManager: onDestroy: Activity is being destroyed.
+08-24 15:03:46.108  3188  3552 W UIThread: updateUI: UI updated with the latest data.
+08-24 15:03:46.207  1321  3392 W UIThread: encryptData: Data encryption completed.
+08-24 15:03:46.223  2511  1393 D LocationService: insertData: Data inserted into the database.
+08-24 15:03:46.262  8755  7451 D ServiceManager: onStop: Activity has stopped.
+08-24 15:03:46.322  5151  6787 I PaymentProcessor: onStop: Activity has stopped.
+08-24 15:03:46.415  5812  7311 D ServiceManager: onError: An unexpected error occurred.
+08-24 15:03:46.504  7979  1413 V NetworkManager: onLowMemory: System is running low on memory.
+08-24 15:03:46.595  4720  8862 W MainActivity: resizeImage: Image resized successfully.
+08-24 15:03:46.673  5389  3699 D ServiceManager: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:46.679  6596  3351 I DatabaseHelper: compressData: Data compression completed.
+08-24 15:03:46.756  7599  4355 W ServiceManager: authenticateUser: User authentication successful.
+08-24 15:03:46.837  5723  2984 V LocationService: disconnectDatabase: Database connection closed.
+08-24 15:03:46.908  9632  4823 D BackgroundTask: decryptData: Data decryption completed.
+08-24 15:03:46.990  6313  1723 E BackgroundTask: authenticateUser: User authentication successful.
+08-24 15:03:47.056  5855  9463 I UIThread: parseResponse: Server response parsed.
+08-24 15:03:47.147  5595  2579 E ServiceManager: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:47.174  6804  8555 D MainActivity: onCreate: Activity is being created.
+08-24 15:03:47.205  1340  3272 W AuthService: onFailure: Failed to connect to server, giving up.
+08-24 15:03:47.229  6643  7576 E LocationService: resizeImage: Image resized successfully.
+08-24 15:03:47.234  7202  3296 W MainActivity: initView: Initializing views.
+08-24 15:03:47.247  9207  1253 I BackgroundTask: initView: Initializing views.
+08-24 15:03:47.289  5811  8486 V DatabaseHelper: cacheData: Data cached locally.
+08-24 15:03:47.315  1943  9090 V MainActivity: loadImage: Image loaded into view.
+08-24 15:03:47.350  4589  3825 V DatabaseHelper: initView: Initializing views.
+08-24 15:03:47.417  2552  3127 E UIThread: authenticateUser: User authentication successful.
+08-24 15:03:47.493  8538  4475 E ServiceManager: cacheData: Data cached locally.
+08-24 15:03:47.563  8108  3852 I ServiceManager: updateLocation: User location updated.
+08-24 15:03:47.609  9037  5509 I NotificationManager: initView: Initializing views.
+08-24 15:03:47.690  8805  7490 D UIThread: decryptData: Data decryption completed.
+08-24 15:03:47.752  7282  7004 V MainActivity: processPayment: Payment processed successfully.
+08-24 15:03:47.808  7309  4613 V BackgroundTask: registerReceiver: Broadcast receiver registered.
+08-24 15:03:47.852  9502  2120 W LocationService: decryptData: Data decryption completed.
+08-24 15:03:47.942  2739  9015 E UIThread: animateView: View animation started.
+08-24 15:03:47.963  7376  5086 E DatabaseHelper: animateView: View animation started.
+08-24 15:03:47.975  9861  3381 W NotificationManager: initView: Initializing views.
+08-24 15:03:48.023  1854  7664 V PaymentProcessor: onLowMemory: System is running low on memory.
+08-24 15:03:48.097  6727  1924 I DatabaseHelper: unregisterReceiver: Broadcast receiver unregistered.
+08-24 15:03:48.172  9462  5144 E ServiceManager: performTask: Performing background task.
+08-24 15:03:48.209  5900  1116 I NetworkManager: compressData: Data compression completed.
+08-24 15:03:48.246  7949  3821 W BackgroundTask: onLowMemory: System is running low on memory.
+08-24 15:03:48.311  5104  5355 V MainActivity: fetchData: Fetching data from https://example.com/api/data
+08-24 15:03:48.384  1918  5272 D LocationService: showNotification: Notification displayed to the user.
+08-24 15:03:48.418  2651  7159 E DatabaseHelper: onDestroy: Background service is being destroyed.
+08-24 15:03:48.428  3929  9191 E ServiceManager: resizeImage: Image resized successfully.
+08-24 15:03:48.447  7730  4067 V ServiceManager: authenticateUser: User authentication successful.
+08-24 15:03:48.499  5289  1674 V DatabaseHelper: onError: Network error occurred, retrying request.
+08-24 15:03:48.561  9013  8436 D LocationService: encryptData: Data encryption completed.
