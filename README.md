@@ -1,2 +1,3 @@
 # logcatai.github.io
-Lagcat ai coming soon
+
+[Lagcat ai](https://logcat.ai) coming soon
